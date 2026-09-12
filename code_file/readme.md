@@ -65,7 +65,6 @@ code_file/
 
 Through this project, I gained practical experience in:
 
-- Deep learning for time-series forecasting
 - Graph neural networks
 - Spatiotemporal modeling
 - Traffic network analysis
