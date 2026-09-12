@@ -1,4 +1,3 @@
-# 2025_machine_learning_final_project
 # Traffic Flow Prediction with Spatiotemporal Graph Neural Networks
 
 Machine Learning Final Project
